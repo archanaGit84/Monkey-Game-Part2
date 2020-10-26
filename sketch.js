@@ -43,7 +43,7 @@ function setup() {
     bananaGroup = new Group();
     obstacleGroup = new Group();
   edges = createEdgeSprites();
-  monkey.debug = true;
+  //monkey.debug = true;
   //obstacle.debug = true;
   
 }
